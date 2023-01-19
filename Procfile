@@ -1,1 +1,1 @@
-web: gunicorn codestar2021.wsgi
+web: gunicorn django-blog-walkthrough-pr.wsgi
