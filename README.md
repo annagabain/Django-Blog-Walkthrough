@@ -1,3 +1,8 @@
+# Deployed on Heroku :point_down:
+
+# https://django-blog-walkthrough-pr.herokuapp.com/
+
+
 
 ## Gitpod Reminders
 
